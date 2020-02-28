@@ -26,7 +26,7 @@ On the Ubuntu terminal
 
 Then the SMath Studio desktop will appear on the web browser at the startup.
 
-<img src="" alt="" width="625" height="520">
+<img src="https://raw.githubusercontent.com/bkjaya2020/smathstudio-pre-installed-docker-new/master/Screenshot%20from%202020-02-16%2010-25-36.png" alt="https://raw.githubusercontent.com/bkjaya2020/smathstudio-pre-installed-docker-new/master/Screenshot%20from%202020-02-16%2010-25-36.png" width="625" height="520">
 
 If you want to get the SMath Studio desktop after closing it please follow the following steps
 

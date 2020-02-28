@@ -14,7 +14,7 @@ Usage :-
 
 To create a smath container (name smath) using bkjaya1952/smathstudio
 
-Refer:- https://hub.docker.com/r/bkjaya1952/smathstudio-docker
+Refer:- https://hub.docker.com/r/bkjaya1952/smathstudio-pre-installed-docker-new
 
 On the Ubuntu terminal
 

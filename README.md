@@ -22,7 +22,7 @@ On the Ubuntu terminal
 
 <code>sudo docker start smath</code>
 
-<code>xdg-open http://localhost:8008</code>
+<code>xdg-open http://localhost:8008/vnc.html</code>
 
 Then the SMath Studio desktop will appear on the web browser at the startup.
 

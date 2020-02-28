@@ -32,7 +32,7 @@ If you want to get the SMath Studio desktop after closing it please follow the f
 
 On the desktop, right click the mouse to get the fluxbox menu
 
-<img src="" alt="" width="625" height="520">
+<img src="https://raw.githubusercontent.com/bkjaya2020/smathstudio-pre-installed-docker-new/master/menu1.png" alt="https://raw.githubusercontent.com/bkjaya2020/smathstudio-pre-installed-docker-new/master/menu1.png" width="625" height="520">
 
 <img src="" alt="" width="625" height="520">
 

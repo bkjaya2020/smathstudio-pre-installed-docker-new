@@ -1,3 +1,10 @@
+###################################################################################
+# Thanks to Andrey Ivashov - Owner of Studio-0.99.7030                            #
+# Thanks to Creator of noVNC : Joel Martin (github@martintribe.org).              #
+# https://novnc.com/info.html                                                     #
+###################################################################################
+
+
 FROM ubuntu:18.04
 MAINTAINER B.K.Jayasundera
 

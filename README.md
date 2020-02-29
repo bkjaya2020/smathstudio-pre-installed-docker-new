@@ -8,6 +8,8 @@ https://en.smath.com/forum/
 
 Thanks to Andrey Ivashov - Owner of Studio-0.99.7030
 
+Thanks to Creator of noVNC : Joel Martin (github@martintribe.org). https://novnc.com/info.html
+
 The idea to create a pre-installed SMath Studio 0.99.7030 docker image was inspired by the Kyle Anderson's  solarkennedy/wine-x11-novnc-docker at https://github.com/solarkennedy/wine-x11-novnc-docker
 
 Usage :-

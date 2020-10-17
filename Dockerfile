@@ -1,5 +1,5 @@
 ###################################################################################
-# Thanks to Andrey Ivashov - Owner of Studio-0.99.7030                            #
+# Thanks to Andrey Ivashov - Owner of Studio                                      #
 # Thanks to Creator of noVNC : Joel Martin (github@martintribe.org).              #
 # https://novnc.com/info.html                                                     #
 ###################################################################################

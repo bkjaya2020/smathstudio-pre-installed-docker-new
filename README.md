@@ -2,7 +2,7 @@
 
 A docker image installed with Stable SMath Studio 
 
-Smath Studio is a tiny, powerful, free mathematical program with WYSIWYG editor and complete units of measurements support. For more details on SMath Studio 0.99.7030 please refer the following link
+Smath Studio is a tiny, powerful, free mathematical program with WYSIWYG editor and complete units of measurements support. For more details on SMath Studio  please refer the following link
 
 https://en.smath.com/forum/
 
@@ -10,7 +10,7 @@ Thanks to Andrey Ivashov - Owner of Studio
 
 Thanks to Creator of noVNC : Joel Martin (github@martintribe.org). https://novnc.com/info.html
 
-The idea to create a pre-installed SMath Studio 0.99.7030 docker image was inspired by the Kyle Anderson's  solarkennedy/wine-x11-novnc-docker at https://github.com/solarkennedy/wine-x11-novnc-docker
+The idea to create a pre-installed SMath Studio  docker image was inspired by the Kyle Anderson's  solarkennedy/wine-x11-novnc-docker at https://github.com/solarkennedy/wine-x11-novnc-docker
 
 Usage :-
 

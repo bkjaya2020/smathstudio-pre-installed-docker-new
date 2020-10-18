@@ -20,7 +20,7 @@ ENV HOME=/root \
 ENV DEBIAN_FRONTEND noninteractive
 
 RUN apt update && apt -y install xvfb x11vnc xdotool git unzip supervisor net-tools fluxbox gnupg2 \
-    && apt -y install xfce4-terminal tzdata  mono-complete unzip vim \
+    && apt -y install xfce4-terminal tzdata  mono-complete unzip \
     && dpkg --add-architecture i386 \
     && apt update \
     && apt -y install libgtk2.0-0:i386 \

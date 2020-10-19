@@ -46,18 +46,6 @@ There is an enother option
 
 On The menu go to sub menus and click Applications>Programming>Monodoc(http)
 
-How to change the timezone
 
-After quitting the smathstudio
-
-On the terminal enter
-
-<code>vim /etc/timezone</code>
-
-Then the timezone file is opened
-
-Go to the top line of the file , press insert key on your key board and enter your timezone ( ie Asia/Colombo)
-
-Then press the Esc key and Shift :x to save & quit the file
 
 
